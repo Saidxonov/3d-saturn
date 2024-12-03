@@ -1,0 +1,12 @@
+/* author: https://codepen.io/elliezen/pen/yMqqWe
+Liza Kobrazova
+ */
+body {
+  margin: 0;
+}
+#world {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
